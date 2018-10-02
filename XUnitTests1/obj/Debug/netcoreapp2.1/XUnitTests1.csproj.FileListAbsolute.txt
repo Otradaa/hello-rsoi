@@ -1,0 +1,14 @@
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\XUnitTests1.deps.json
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\XUnitTests1.runtimeconfig.json
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\XUnitTests1.runtimeconfig.dev.json
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\XUnitTests1.dll
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\bin\Debug\netcoreapp2.1\XUnitTests1.pdb
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.csprojAssemblyReference.cache
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.AssemblyInfoInputs.cache
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.AssemblyInfo.cs
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.dll
+C:\Users\Julia\Desktop\hello-rsoi\XUnitTests1\obj\Debug\netcoreapp2.1\XUnitTests1.pdb
