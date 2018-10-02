@@ -2,6 +2,12 @@ language: csharp
 mono: none
 dotnet: 2.1.402
 before_script:
- - dotnet restore
+- dotnet restore
 script:
- - dotnet test ./XUnitTests1 -c Release -f netcoreapp2.1
+- dotnet test ./XUnitTests1 -c Release -f netcoreapp2.1
+deploy:
+  provider: heroku
+  api_key:
+    secure: gfBB1kela6sPME2I8nH+2Dw0UVbL0Lc8Th/QCXZGBIRNvmda9daJgxEU6LDoK2w+Tm1Oaw3Zavr2BylwXJmbjaxqb+LWa2OPmbcib4AAfZjlC8ft3D/2AmMPrewkxpaJXMcsON6Bz1nBtPUftiuvn+kqwVUKxAsmWAniw256tXT261NgUXEAScMHm7NM3VMCXAE9gGGE/d8NUeohJ38+fOVAqEDapeHs40QARe2DMfP8AANFrpzkKXTJlwAcSGyvsWe+jBtKMwf/XKGuJJSQvOTPIhA0AnIDG7Mm8xRKhj8gLOdY8DJ4oE0MipWFAeNdrKPgMEuVwiJmPEbZlCSov/hsOJ6BNsCl+4XrSJj1tLZFYkDk9Mat+iHoSQSV4E7oBeOW08x5QnKRRR5Z4dmxwmoxwl3Mw5Zck75/ZJTsysbazSpG3cou6YxynTdhdZnYvUmnfkxiwZfy0r890PcRQNS9zSF/pv28QeNkEs1m0iVRdquk1gohoX+f3oTlwYz6Skct8P27V4uGLhQtgoh3YRrSMOuuv2rwIEdjzOwA9I9DuhZqY495WE5qrPBnDVYd/rwD/sq9xvE98ieV+DO3RYujvdZMmdPGb9mL4HsMlDX52klCfXqN0wM8a0UYpSNiqz1QmBkLII/qBPvsOxhN9V+S5DOAYO50lnmuo+Ul3p0=
+  app: Lab1
+
