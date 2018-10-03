@@ -1,8 +1,6 @@
 language: csharp
 mono: none
 dotnet: 2.1.402
-before_script:
-- dotnet restore
 script:
 - dotnet test ./XUnitTests1 -c Release -f netcoreapp2.1
 deploy:
