@@ -2,7 +2,7 @@ language: csharp
 mono: none
 dotnet: 2.1.402
 script:
-- dotnet test ./XUnitTests1 -c Release -f netcoreapp2.1
+- dotnet test ./XUnitTest1 -c Release -f netcoreapp2.1
 deploy:
   provider: heroku
   api_key:
